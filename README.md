@@ -1,8 +1,8 @@
 <h3><b>This is Yoon! 👋</b></h3>
 
-👩‍🔬 I degree in FoodScience & Biotechnology 🇰🇷 <br>
-☕ I used to be a Barista at Starbucks <img src="https://img.shields.io/badge/Starbucks-006241?style=flat&logo=Starbucks&logoColor=white"/> in London 🇬🇧 <br>
-✈️ I worked as a Cabin crew for OmanAir 🇴🇲 <br>
+👩‍🔬 B.S in FoodScience & Biotechnology 🇰🇷 <br>
+☕ I used to be a Barista at <img src="https://img.shields.io/badge/Starbucks-006241?style=flat&logo=Starbucks&logoColor=white"/> in London 🇬🇧 <br>
+✈️ I worked as a Cabin crew for OmanAir 🇴🇲 <br><br>
 👩‍💻 And now i am learning web programming 💻 ✨✨
 <br><br>
 
